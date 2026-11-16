@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-user-configs"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS user-configs component"
+
+[lib]
+name = "user_configs"
+path = "src/lib.rs"
